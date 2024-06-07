@@ -1,0 +1,8 @@
+This program is designed to assist ‘Tim’ with managing his business through a computer program that ALI ASKAR and Deven setpal will design:
+
+Input Order Details: The user inputs the table number and menu items as a string.
+2. Validate Input Data: Ensure menu item numbers exist in the menu.
+3. Calculate Total Cost: Sum the prices of the selected items.
+4. Display Order Details: Display the order summary. (Including the quantity of items)
+5. Files: Save and load the menu and totals from files.
+6. Maintain Running Totals: Keep track of the total order value and quantities of each item ordered.
