@@ -1,3 +1,5 @@
+#Main prorgam - CLI
+
 menu = {
     1: {"name": "All day (large)", "price": 5.50},
     2: {"name": "All day (small)", "price": 3.50},
