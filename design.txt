@@ -1,0 +1,33 @@
+[start]
+    |
+[load menu]
+    |
+[Load totals]
+     |
+[main menu]
+    |
++---+---+---+---+
+|     |     |     |     |
+[1] [2]  [3] [4]  [else]
+|     |     |     |      |
+Display | Take  | Display |
+Menu     Order Totals   |
+            |            |         |
+            |            |       [end]
+            |            |
+       [validate]
+           |
+      [calculate total]
+            |
+      [update totals]
+            |
+      [display order]
+           |
+      [main meu]
+
+
+Main menu: choose between displayed menu, taking an order, displaying totals or exiting
+Display Menu: will display for the customers the menu items and prices
+Take order: process which will include input calculations and updating totals 
+Display total: shows the total of the order value including quantity of items 
+Exit: end the program 
