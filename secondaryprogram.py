@@ -1,6 +1,8 @@
 import tkinter as tk
 from tkinter import messagebox, simpledialog
 
+#Secondary program - GUI
+
 menu = {
     1: {"name": "All day (large)", "price": 5.50},
     2: {"name": "All day (small)", "price": 3.50},
